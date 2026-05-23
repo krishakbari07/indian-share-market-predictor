@@ -41,6 +41,33 @@ The project includes:
 - HTML
 - CSS
 
+📉 How It Works
+Collect historical stock market data
+Clean and preprocess the dataset
+Train ML model
+Predict stock prices
+Display predictions on Django web app
+
+📸 Project Screenshots
+<img width="1920" height="1080" alt="Screenshot 2026-05-23 100037" src="https://github.com/user-attachments/assets/671c2db7-280f-4a33-9f57-c7b7c7a69bcc" />
+
+
+🌐 Future Improvements
+Live Stock Market API Integration
+Candlestick Charts
+Deep Learning Models
+Real-time Prediction Dashboard
+Multiple Stock Comparison
+
+👨‍💻 Author
+
+Krish Akbari
+GitHub: https://github.com/krishakbari07
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
+
 ---
 
 ## 📂 Project Structure
